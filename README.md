@@ -1,4 +1,4 @@
-# CryptoForce: AI-Powered Financial Insights SystemAGENTIC FINANCE INSIGHT/REPORT GENERATION SYSTEM FOR USERS
+# CryptoForce: AI-Powered Financial Insights System
 
 An Agentic AI/ python script automation projects that performs daily crypto analysis along with general financial analysis and sends user mails with visualization
 
